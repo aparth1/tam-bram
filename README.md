@@ -1,3 +1,6 @@
 # tam-bram
 ## tam-bram in smaller font
-### tam-bram in teritiary font
+
+* Bullet list 1
+* Bullet list 2
+* Bullet list 3
